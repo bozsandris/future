@@ -56,15 +56,6 @@ int main()
     }
     cout<<"Gra'fos ma'trix:"<<endl<<a<<endl;
     cout<<"Valse'ges ma'trix"<<endl<<d<<endl;
-   /*for(int k=0;k<13;k++)
-    {
-        for(int i=0;i<11;i++)
-            {
-
-                cout<<a(k,i)<<"\t";
-            }
-            cout<<endl;
-    }*/
     cout<<endl<<"vektor = vektor * matrix:"<<endl;
     for(int i=0;i<12;i++)
     {
